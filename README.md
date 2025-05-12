@@ -1,6 +1,5 @@
 ## Improving Transformer’s Resilience to Transient Hardware Faults
 
-**Advisor:** Prof. Jingweijia Tan
 **Duration:** Oct 2024 – May 2025
 
 * **Literature Review**
